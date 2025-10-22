@@ -10,3 +10,4 @@
 3. Unintended consequences
 4. Lessons learned
 Added ethics section
+Fixed minor typos
