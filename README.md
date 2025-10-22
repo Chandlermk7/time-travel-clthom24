@@ -6,3 +6,7 @@ I am learning Git workflows, branching strategies, and collaborative development
 - target/: Maven build outputs that shouldn't be versioned
 - *.class: Compiled Java class files
 - .DS_Store: Mac system file that clutters repositories
+
+## Branch Roles
+- author/idea-sprint: used for drafting new ideas and creative writing.
+- editor/review: used for reviewing and refining content before release.
