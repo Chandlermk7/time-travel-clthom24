@@ -1,2 +1,3 @@
 # time-travel-clthom24
-A time-travel themed zine demonstrating Git workflows and version control practices
+
+I am learning Git workflows, branching strategies, and collaborative development practices by creating a time-travel themed magazine. This repository demonstrates essential version control techniques including issue tracking, pull requests, and merge conflict resolution.
