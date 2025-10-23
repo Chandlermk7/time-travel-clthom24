@@ -1,1 +1,2 @@
-# Intro — A gentle reflection on time
+# Intro — A thoughtful journey through time
+
