@@ -1,0 +1,1 @@
+I learned a lot about branching, commits, and handling merge conflicts. I messed up a push to the wrong account and forgot to pull before creating a branch. Using 'git log --graph' really helped me understand the project history and fix mistakes faster.
