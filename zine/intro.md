@@ -1,1 +1,2 @@
-# Intro — A bold new journey through time
+# Intro — A thoughtful journey through time
+
